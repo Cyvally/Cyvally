@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cyvally
-- 👀 I’m interested in Cybersecurity and cloud
-- 🌱 I’m currently learning penetration testing, Vulnerability Assessment and preparing for eJPT
+- 👀 I’m interested in Cybersecurity and Devops
+- 🌱 I’m currently learning penetration testing, Vulnerability Assessment and preparing for Junior Penetration Testing certification(eJPT)
 - 💞️ I’m looking to collaborate on everything cybersecurity(full stack cybersecurity)
 - 🤾‍♀️ Outside Cybersecurity, I love playing video games,chess, dancing, and shopping
 - 📫 How to reach me:
